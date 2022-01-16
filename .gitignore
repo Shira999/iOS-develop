@@ -1,0 +1,9 @@
+# игнор файлов, находящихся в подкаталоге tmp
+tmp/
+
+# игнор файлов Thumbs.db и .DS_Store
+Thumbs.db
+*.DS_Store
+
+# игнор .idea
+*.idea
